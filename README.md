@@ -23,7 +23,7 @@ Q. What will you get if you participate in it ?
 
 A limited edition T-shirt for FREE!
 
-![Screenshot](tshirt_light.png)
+![Screenshot](tshirt_light.png) ![Screenshot](tshirt_dark.png)
 &nbsp;&nbsp;
 
 Step #1: Register for Hacktoberfest
