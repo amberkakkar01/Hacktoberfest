@@ -31,6 +31,8 @@ You need a GitHub account. If you don’t have one yet, you can create one for f
 
 Then go to the Hacktoberfest registration page and follow the instructions. It only takes a moment.
 
+Step #1.1: Star this repository.
+
 Step #2: Learn how to make a pull request
 
 Pull requests are a way of contributing your code changes to an open source project. They use a tool called Git, which runs on a social coding platform called GitHub.
