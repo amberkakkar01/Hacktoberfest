@@ -52,7 +52,7 @@ If you are a programmer/developer, there are thousands of repositories available
 
 https://github.com/topics/hacktoberfest
 
-Step #4: Make 3 more pull requests
+Step #4: Make 4 more pull requests
 
 You can make three more pull requests to the freeCodeCamp Guide, or whatever open source project you want. Here’s a more detailed guide to contributing to open source, if you’re feeling adventurous.
 
@@ -63,4 +63,6 @@ Once you’ve signed up for Hacktoberfest, you can check your progress on the Ha
 Step #6: Wait for your Hacktoberfest 2020 shirt to arrive in the mail
 
 # Visit the Hactoberfest website to know More : https://hacktoberfest.digitalocean.com/
+
+## UPDATE: https://hacktoberfest.digitalocean.com/hacktoberfest-update
 
